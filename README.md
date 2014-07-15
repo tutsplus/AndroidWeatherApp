@@ -1,7 +1,9 @@
-### Tuts+ Tutorial: Build a simple weather app from scratch
+### Tuts+ Tutorial: Create a Weather App on Android
 
 #### Instructor: Hathibelagal Ashraff
 
-Do you think a lot of the weather apps available on Google Play are either full of ads or need too many permissions? Why don't you create one yourself? It is really easy, and this tutorial takes you through all the steps involved in creating a simple and minimalistic weather app.
+A lot of the popular weather apps on Google Play are either full of ads, require too many permissions, or include features that most of us never use. Wouldn't it be great if you could build your own weather app from scratch?
 
-Source files for the Tuts+ tutorial: [Build a simple weather app from scratch](https://code.tutsplus.com/tutorials/create-a-minimalistic-weather-app-from-the-scratch--cms-21587)
+In this tutorial, I'm going to show you how. Our app will have a simple and minimalist user interface, showing the user exactly what they need to know about the current weather conditions. Let's get started.
+
+Source files for the Tuts+ tutorial: [Create a Weather App on Android](https://code.tutsplus.com/tutorials/create-a-weather-app-on-android--cms-21587)
